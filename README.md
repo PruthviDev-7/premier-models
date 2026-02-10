@@ -17,14 +17,14 @@ Premier Models is an elegant portfolio website designed for a high-end model man
 
 ## 📸 Screenshots
 
-*This all site in one page** 
- [Home-page] <img width="1875" height="1035" alt="brave_screenshot" src="https://github.com/user-attachments/assets/2899299d-5234-48f7-a6b4-1a056c1d0fe1" />
- [Home-Page]<img width="1850" height="1001" alt="brave_screenshot (1)" src="https://github.com/user-attachments/assets/cb17c982-278f-47e0-bd85-17430a47dfb5" />
- [Mid-Section]<img width="1875" height="1051" alt="brave_screenshot (2)" src="https://github.com/user-attachments/assets/10afc545-5e0c-4fc3-8ff1-fa947dba789e" />
- [Mid-section]<img width="1847" height="1045" alt="brave_screenshot (3)" src="https://github.com/user-attachments/assets/a47b017e-959d-4b37-ada4-9a8a2fdea003" />
- [Update]<img width="1874" height="1052" alt="brave_screenshot (4)" src="https://github.com/user-attachments/assets/ac2d0791-678f-4ede-87c0-055fd90c1bfb" />
- [Movie-Shot]<img width="1886" height="1052" alt="brave_screenshot (5)" src="https://github.com/user-attachments/assets/2973cbfa-8b27-4394-bd06-c5b728b99147" />
- [Footer]<img width="1871" height="1070" alt="brave_screenshot (7)" src="https://github.com/user-attachments/assets/460dbee2-2384-4590-a5a4-a2f919b69721" />/>
+****This all site in one page****
+ **Home-page** <img width="1875" height="1035" alt="brave_screenshot" src="https://github.com/user-attachments/assets/2899299d-5234-48f7-a6b4-1a056c1d0fe1" />
+ **Home-Page**<img width="1850" height="1001" alt="brave_screenshot (1)" src="https://github.com/user-attachments/assets/cb17c982-278f-47e0-bd85-17430a47dfb5" />
+ **Mid-Section**<img width="1875" height="1051" alt="brave_screenshot (2)" src="https://github.com/user-attachments/assets/10afc545-5e0c-4fc3-8ff1-fa947dba789e" />
+ **Mid-section**<img width="1847" height="1045" alt="brave_screenshot (3)" src="https://github.com/user-attachments/assets/a47b017e-959d-4b37-ada4-9a8a2fdea003" />
+ **Update**<img width="1874" height="1052" alt="brave_screenshot (4)" src="https://github.com/user-attachments/assets/ac2d0791-678f-4ede-87c0-055fd90c1bfb" />
+ **Movie-Shot**<img width="1886" height="1052" alt="brave_screenshot (5)" src="https://github.com/user-attachments/assets/2973cbfa-8b27-4394-bd06-c5b728b99147" />
+ **Footer**<img width="1871" height="1070" alt="brave_screenshot (7)" src="https://github.com/user-attachments/assets/460dbee2-2384-4590-a5a4-a2f919b69721" />/>
 > *Note: These images represent the actual design and layout of the Premier Models website.*
 
 ## 🛠️ Technologies Used
@@ -88,6 +88,7 @@ GitHub: @PruthviDev-7
 
 Repository: premier-models
 Enjoy exploring the fashion world with Premier Models! ✨
+
 
 
 
